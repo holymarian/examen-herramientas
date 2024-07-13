@@ -1,11 +1,11 @@
-[{"alumno":"Mateo","nota":9.09,"ranking":190},
+[{"alumno":"Mateo","nota":9,"ranking":190},
  {"alumno":"Marcos","nota":5,"ranking":100},
- {"alumno":"Lucas","nota":7.8,"ranking":170},
- {"alumno":"Juan","nota":6.89,"ranking":30},
- {"alumno":"Hechos","nota":3.65,"ranking":80},
- {"alumno":"Romanos","nota":5.45,"ranking":90},
- {"alumno":"Corintios","nota":7.9,"ranking":110},
+ {"alumno":"Lucas","nota":7,"ranking":170},
+ {"alumno":"Juan","nota":6,"ranking":30},
+ {"alumno":"Hechos","nota":3,"ranking":80},
+ {"alumno":"Romanos","nota":5,"ranking":90},
+ {"alumno":"Corintios","nota":7,"ranking":110},
  {"alumno":"Galatas","nota":10,"ranking":150},
  {"alumno":"Efesios","nota":9,"ranking":120},
- {"alumno":"Filipenses","nota":4.5,"ranking":100}
+ {"alumno":"Filipenses","nota":4,"ranking":100}
 ]
