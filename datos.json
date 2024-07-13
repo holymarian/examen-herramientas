@@ -2,7 +2,7 @@
  {"alumno":"Marcos","nota":5.6,"ranking":100},
  {"alumno":"Lucas","nota":7.8,"ranking":170},
  {"alumno":"Juan","nota":6.7,"ranking":30},
- {"alumno":"Hechos","nota":.33,"ranking":80},
+ {"alumno":"Hechos","nota":3.33,"ranking":80},
  {"alumno":"Romanos","nota":5.65,"ranking":90},
  {"alumno":"Corintios","nota":7.05,"ranking":110},
  {"alumno":"Galatas","nota":10,"ranking":150},
